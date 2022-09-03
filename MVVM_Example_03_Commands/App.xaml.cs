@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace MVVM_Example_05_Commands
+namespace MVVM_Example_04_Commands
 {
     /// <summary>
     /// Interaction logic for App.xaml

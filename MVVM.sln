@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVVM_Example_01", "MVVM_Exa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVVM_Example_02", "MVVM_Example_02\MVVM_Example_02.csproj", "{D4A0C56A-C041-4D1A-907C-FD208D494B3B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVVM_Example_04_Commands", "MVVM_Example_03_Commands\MVVM_Example_04_Commands.csproj", "{F13BBE15-6AF8-4EA2-8745-70BAFEECEF0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM_Example_03_Locator", "MVVM_Example_03_Locator\MVVM_Example_03_Locator.csproj", "{94D8240E-AB0E-45E8-A7E5-93431917C4FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D4A0C56A-C041-4D1A-907C-FD208D494B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4A0C56A-C041-4D1A-907C-FD208D494B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4A0C56A-C041-4D1A-907C-FD208D494B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13BBE15-6AF8-4EA2-8745-70BAFEECEF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13BBE15-6AF8-4EA2-8745-70BAFEECEF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13BBE15-6AF8-4EA2-8745-70BAFEECEF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13BBE15-6AF8-4EA2-8745-70BAFEECEF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D8240E-AB0E-45E8-A7E5-93431917C4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D8240E-AB0E-45E8-A7E5-93431917C4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D8240E-AB0E-45E8-A7E5-93431917C4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D8240E-AB0E-45E8-A7E5-93431917C4FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

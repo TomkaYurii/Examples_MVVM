@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace MVVM_Example_05_Commands.Models
+namespace MVVM_Example_03_Locator.Models
 {
     public class Student : INotifyPropertyChanged
     {

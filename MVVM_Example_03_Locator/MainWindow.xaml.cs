@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MVVM_Example_05_Commands.Views
+namespace MVVM_Example_03_Locator
 {
     /// <summary>
-    /// Логика взаимодействия для StudentView.xaml
+    /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class StudentView : UserControl
+    public partial class MainWindow : Window
     {
-        public StudentView()
+        public MainWindow()
         {
             InitializeComponent();
         }

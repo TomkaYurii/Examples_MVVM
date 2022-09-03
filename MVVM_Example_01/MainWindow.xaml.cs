@@ -1,4 +1,4 @@
-﻿using MVVM_Example_01.ViewModels;
+﻿using MVVM_Example_05_Commands.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MVVM_Example_01
+namespace MVVM_Example_05_Commands
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

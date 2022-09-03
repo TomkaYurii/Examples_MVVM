@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace MVVM_Example_05_Commands
+namespace MVVM_Example_03_Locator
 {
     /// <summary>
     /// Interaction logic for App.xaml
